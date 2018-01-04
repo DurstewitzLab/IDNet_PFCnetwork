@@ -1,7 +1,7 @@
 ***********************************************************************
- Simulation code from Hass, Hertaeg and Durstewitz (2016), "A detailed,
+ Simulation code from [Hass, Hertaeg and Durstewitz (2016), "A detailed,
  data data-driven network model of prefrontal cortex reproduces key 
- features of in vivo activity", PLoS Comput Biol
+ features of in vivo activity", PLoS Comput Biol](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004930)
 ***********************************************************************
 
 This package should provide all files needed to simulate the network 
